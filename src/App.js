@@ -1,4 +1,4 @@
-
+import './App.css';
 import React, { useState } from "react";
 import DisplayIdeas from "./DisplayIdeas";
 import IdeasForm from "./IdeasForm"
